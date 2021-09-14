@@ -1,5 +1,5 @@
 # 👩‍💻 Digital-Image-Processing
-2021년 2학기 인간과 컴퓨터- openCV / C++
+2021년 2학기 인간 컴퓨터 상호작용(HCI)- openCV / C++
 
 </br>
 
