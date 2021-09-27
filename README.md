@@ -9,3 +9,4 @@
 </br>
 
 ## 💻 Project
+[Open CV 정리 블로그](https://velog.io/@hyez_dev/series/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9HCI)
